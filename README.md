@@ -6,9 +6,13 @@ Simple Workflow to open any url on Chrome based on User input.
 
 
 ## To use: 
+
 • Type cr to invoke the workflow 
+
 • Type or paste your URL 
+
 • and hit Enter.
+
 
 
 If Google Chrome is open, the workflow will open a Tab.
